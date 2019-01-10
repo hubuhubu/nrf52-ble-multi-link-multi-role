@@ -31,7 +31,7 @@ Each group will need the following for the aggregator
 - A PC running a terminal program, or an Android device with a large screen
 
 ## Preparations
-1) The *ble_app_multi_link_multi_role* folder will have to be copied into your local SDKv14 folder in order for the examples to compile. 
+1) The *ble_app_multi_link_multi_role* folder will have to be copied into your local SDKv15.2 folder in order for the examples to compile. 
 Create a folder under *\nRF5_SDK_15.2.0\examples\\* called *training* and copy the ble_app_multi_link_multi_role folder into it. When you are finished it should look like this:
 ![SDK examples folder](https://github.com/NordicSemiconductor/nrf52-ble-multi-link-multi-role/blob/master/pics/sdk_folder.png)
 2) One person in each group needs to set up the aggregator. Ask the Nordic attendants for help if you are unsure who should set up the aggregator. 
